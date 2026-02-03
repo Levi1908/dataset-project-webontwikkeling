@@ -1,0 +1,30 @@
+[
+  {
+    "id": "role-1",
+    "name": "Sentinel",
+    "description": "Sentinels zijn defensieve specialisten die gebieden beveiligen en teamgenoten ondersteunen.",
+    "iconUrl": "https://example.com/icons/sentinel.png",
+    "isPlayable": true
+  },
+  {
+    "id": "role-2",
+    "name": "Initiator",
+    "description": "Initiators openen gevechten door vijanden te lokaliseren en te verstoren.",
+    "iconUrl": "https://example.com/icons/initiator.png",
+    "isPlayable": true
+  },
+  {
+    "id": "role-3",
+    "name": "Duelist",
+    "description": "Duelists zijn agressieve fraggers die gevechten initiëren.",
+    "iconUrl": "https://example.com/icons/duelist.png",
+    "isPlayable": true
+  },
+  {
+    "id": "role-4",
+    "name": "Controller",
+    "description": "Controllers beheersen het slagveld door zicht en zones te controleren.",
+    "iconUrl": "https://example.com/icons/controller.png",
+    "isPlayable": true
+  }
+]
