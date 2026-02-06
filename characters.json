@@ -2,17 +2,17 @@
   {
     "id": "agent-1",
     "name": "Jett",
-    "description": "Jett is een extreem mobiele agent die snel posities kan innemen en verlaten.",
+    "description": "Jett is an extremely mobile agent who can quickly take and leave positions.",
     "age": 23,
     "active": true,
     "birthDate": "2001-06-15",
     "imageUrl": "https://example.com/agents/jett.png",
     "tier": "S",
-    "hobbies": ["parkour", "training", "vliegen"],
+    "hobbies": ["parkour", "training", "flying"],
     "role": {
       "id": "role-3",
       "name": "Duelist",
-      "description": "Duelists zijn agressieve fraggers die gevechten initiëren.",
+      "description": "Duelists are aggressive fraggers who initiate fights.",
       "iconUrl": "https://example.com/icons/duelist.png",
       "isPlayable": true
     }
@@ -20,17 +20,17 @@
   {
     "id": "agent-2",
     "name": "Sova",
-    "description": "Sova gebruikt technologie en precisie om vijanden op te sporen.",
+    "description": "Sova uses technology and precision to track enemies.",
     "age": 30,
     "active": true,
     "birthDate": "1994-03-03",
     "imageUrl": "https://example.com/agents/sova.png",
     "tier": "A",
-    "hobbies": ["boogschieten", "verkenning"],
+    "hobbies": ["archery", "reconnaissance"],
     "role": {
       "id": "role-2",
       "name": "Initiator",
-      "description": "Initiators openen gevechten door vijanden te lokaliseren en te verstoren.",
+      "description": "Initiators open fights by locating and disrupting enemies.",
       "iconUrl": "https://example.com/icons/initiator.png",
       "isPlayable": true
     }
@@ -38,17 +38,17 @@
   {
     "id": "agent-3",
     "name": "Sage",
-    "description": "Sage ondersteunt haar team met heling en controlevaardigheden.",
+    "description": "Sage supports her team with healing and control abilities.",
     "age": 28,
     "active": true,
     "birthDate": "1996-01-01",
     "imageUrl": "https://example.com/agents/sage.png",
     "tier": "S",
-    "hobbies": ["meditatie", "genezing"],
+    "hobbies": ["meditation", "healing"],
     "role": {
       "id": "role-1",
       "name": "Sentinel",
-      "description": "Sentinels zijn defensieve specialisten die gebieden beveiligen en teamgenoten ondersteunen.",
+      "description": "Sentinels are defensive specialists who secure areas and support teammates.",
       "iconUrl": "https://example.com/icons/sentinel.png",
       "isPlayable": true
     }
@@ -56,17 +56,17 @@
   {
     "id": "agent-4",
     "name": "Brimstone",
-    "description": "Brimstone biedt tactische ondersteuning met smokes en luchtsteun.",
+    "description": "Brimstone provides tactical support with smokes and air support.",
     "age": 45,
     "active": true,
     "birthDate": "1979-12-01",
     "imageUrl": "https://example.com/agents/brimstone.png",
     "tier": "B",
-    "hobbies": ["strategie", "training"],
+    "hobbies": ["strategy", "training"],
     "role": {
       "id": "role-4",
       "name": "Controller",
-      "description": "Controllers beheersen het slagveld door zicht en zones te controleren.",
+      "description": "Controllers control the battlefield by managing vision and zones.",
       "iconUrl": "https://example.com/icons/controller.png",
       "isPlayable": true
     }
@@ -74,17 +74,17 @@
   {
     "id": "agent-5",
     "name": "Phoenix",
-    "description": "Phoenix gebruikt vuur om schade toe te brengen en zichzelf te genezen.",
+    "description": "Phoenix uses fire to deal damage and heal himself.",
     "age": 22,
     "active": true,
     "birthDate": "2002-05-09",
     "imageUrl": "https://example.com/agents/phoenix.png",
     "tier": "A",
-    "hobbies": ["basketbal", "muziek"],
+    "hobbies": ["basketball", "music"],
     "role": {
       "id": "role-3",
       "name": "Duelist",
-      "description": "Duelists zijn agressieve fraggers die gevechten initiëren.",
+      "description": "Duelists are aggressive fraggers who initiate fights.",
       "iconUrl": "https://example.com/icons/duelist.png",
       "isPlayable": true
     }
@@ -92,17 +92,17 @@
   {
     "id": "agent-6",
     "name": "Viper",
-    "description": "Viper gebruikt giftige chemicaliën om het terrein te beheersen.",
+    "description": "Viper uses toxic chemicals to control terrain.",
     "age": 34,
     "active": true,
     "birthDate": "1990-10-10",
     "imageUrl": "https://example.com/agents/viper.png",
     "tier": "S",
-    "hobbies": ["chemie", "onderzoek"],
+    "hobbies": ["chemistry", "research"],
     "role": {
       "id": "role-4",
       "name": "Controller",
-      "description": "Controllers beheersen het slagveld door zicht en zones te controleren.",
+      "description": "Controllers control the battlefield by managing vision and zones.",
       "iconUrl": "https://example.com/icons/controller.png",
       "isPlayable": true
     }
@@ -110,17 +110,17 @@
   {
     "id": "agent-7",
     "name": "Killjoy",
-    "description": "Killjoy gebruikt gadgets en technologie om gebieden te verdedigen.",
+    "description": "Killjoy uses gadgets and technology to defend areas.",
     "age": 24,
     "active": true,
     "birthDate": "2000-07-04",
     "imageUrl": "https://example.com/agents/killjoy.png",
     "tier": "A",
-    "hobbies": ["uitvinden", "programmeren"],
+    "hobbies": ["inventing", "programming"],
     "role": {
       "id": "role-1",
       "name": "Sentinel",
-      "description": "Sentinels zijn defensieve specialisten die gebieden beveiligen en teamgenoten ondersteunen.",
+      "description": "Sentinels are defensive specialists who secure areas and support teammates.",
       "iconUrl": "https://example.com/icons/sentinel.png",
       "isPlayable": true
     }
@@ -128,17 +128,17 @@
   {
     "id": "agent-8",
     "name": "Breach",
-    "description": "Breach gebruikt explosieve kracht om vijanden uit dekking te dwingen.",
+    "description": "Breach uses explosive force to drive enemies out of cover.",
     "age": 35,
     "active": true,
     "birthDate": "1989-08-21",
     "imageUrl": "https://example.com/agents/breach.png",
     "tier": "B",
-    "hobbies": ["fitness", "tactiek"],
+    "hobbies": ["fitness", "tactics"],
     "role": {
       "id": "role-2",
       "name": "Initiator",
-      "description": "Initiators openen gevechten door vijanden te lokaliseren en te verstoren.",
+      "description": "Initiators open fights by locating and disrupting enemies.",
       "iconUrl": "https://example.com/icons/initiator.png",
       "isPlayable": true
     }
@@ -146,17 +146,17 @@
   {
     "id": "agent-9",
     "name": "Reyna",
-    "description": "Reyna wordt sterker door eliminaties en speelt zeer agressief.",
+    "description": "Reyna becomes stronger through eliminations and plays very aggressively.",
     "age": 25,
     "active": true,
     "birthDate": "1999-11-11",
     "imageUrl": "https://example.com/agents/reyna.png",
     "tier": "S",
-    "hobbies": ["training", "duelleren"],
+    "hobbies": ["training", "dueling"],
     "role": {
       "id": "role-3",
       "name": "Duelist",
-      "description": "Duelists zijn agressieve fraggers die gevechten initiëren.",
+      "description": "Duelists are aggressive fraggers who initiate fights.",
       "iconUrl": "https://example.com/icons/duelist.png",
       "isPlayable": true
     }
@@ -164,17 +164,17 @@
   {
     "id": "agent-10",
     "name": "Cypher",
-    "description": "Cypher verzamelt informatie en houdt vijanden constant in de gaten.",
+    "description": "Cypher gathers information and constantly monitors enemies.",
     "age": 38,
     "active": true,
     "birthDate": "1986-02-14",
     "imageUrl": "https://example.com/agents/cypher.png",
     "tier": "A",
-    "hobbies": ["spionage", "analyse"],
+    "hobbies": ["espionage", "analysis"],
     "role": {
       "id": "role-1",
       "name": "Sentinel",
-      "description": "Sentinels zijn defensieve specialisten die gebieden beveiligen en teamgenoten ondersteunen.",
+      "description": "Sentinels are defensive specialists who secure areas and support teammates.",
       "iconUrl": "https://example.com/icons/sentinel.png",
       "isPlayable": true
     }
