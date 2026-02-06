@@ -6,14 +6,14 @@
     "age": 23,
     "active": true,
     "birthDate": "2001-06-15",
-    "imageUrl": "https://example.com/agents/jett.png",
-    "tier": "S",
+    "imageUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/jett-icon.jpg",
+    "gender": "F",
     "hobbies": ["parkour", "training", "flying"],
     "role": {
       "id": "role-3",
       "name": "Duelist",
       "description": "Duelists are aggressive fraggers who initiate fights.",
-      "iconUrl": "https://example.com/icons/duelist.png",
+      "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/duelist-icon.jpg",
       "isPlayable": true
     }
   },
@@ -24,14 +24,14 @@
     "age": 30,
     "active": true,
     "birthDate": "1994-03-03",
-    "imageUrl": "https://example.com/agents/sova.png",
-    "tier": "A",
+    "imageUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/sova-icon.jpg",
+    "gender": "M",
     "hobbies": ["archery", "reconnaissance"],
     "role": {
       "id": "role-2",
       "name": "Initiator",
       "description": "Initiators open fights by locating and disrupting enemies.",
-      "iconUrl": "https://example.com/icons/initiator.png",
+      "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/initiator-icon.jpg",
       "isPlayable": true
     }
   },
@@ -42,14 +42,14 @@
     "age": 28,
     "active": true,
     "birthDate": "1996-01-01",
-    "imageUrl": "https://example.com/agents/sage.png",
-    "tier": "S",
+    "imageUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/sage-icon.jpg",
+    "gender": "F",
     "hobbies": ["meditation", "healing"],
     "role": {
       "id": "role-1",
       "name": "Sentinel",
       "description": "Sentinels are defensive specialists who secure areas and support teammates.",
-      "iconUrl": "https://example.com/icons/sentinel.png",
+      "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/sentinel-icon.jpg",
       "isPlayable": true
     }
   },
@@ -60,14 +60,14 @@
     "age": 45,
     "active": true,
     "birthDate": "1979-12-01",
-    "imageUrl": "https://example.com/agents/brimstone.png",
-    "tier": "B",
+    "imageUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/brimstone-icon.jpg",
+    "gender": "M",
     "hobbies": ["strategy", "training"],
     "role": {
       "id": "role-4",
       "name": "Controller",
       "description": "Controllers control the battlefield by managing vision and zones.",
-      "iconUrl": "https://example.com/icons/controller.png",
+      "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/controller-icon.jpg",
       "isPlayable": true
     }
   },
@@ -78,14 +78,14 @@
     "age": 22,
     "active": true,
     "birthDate": "2002-05-09",
-    "imageUrl": "https://example.com/agents/phoenix.png",
-    "tier": "A",
+    "imageUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/phoenix-icon.jpg",
+    "gender": "M",
     "hobbies": ["basketball", "music"],
     "role": {
       "id": "role-3",
       "name": "Duelist",
       "description": "Duelists are aggressive fraggers who initiate fights.",
-      "iconUrl": "https://example.com/icons/duelist.png",
+      "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/duelist-icon.jpg",
       "isPlayable": true
     }
   },
@@ -96,14 +96,14 @@
     "age": 34,
     "active": true,
     "birthDate": "1990-10-10",
-    "imageUrl": "https://example.com/agents/viper.png",
-    "tier": "S",
+    "imageUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/viper-icon.jpg",
+    "gender": "F",
     "hobbies": ["chemistry", "research"],
     "role": {
       "id": "role-4",
       "name": "Controller",
       "description": "Controllers control the battlefield by managing vision and zones.",
-      "iconUrl": "https://example.com/icons/controller.png",
+      "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/controller-icon.jpg",
       "isPlayable": true
     }
   },
@@ -114,14 +114,14 @@
     "age": 24,
     "active": true,
     "birthDate": "2000-07-04",
-    "imageUrl": "https://example.com/agents/killjoy.png",
-    "tier": "A",
+    "imageUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/killjoy-icon.jpg",
+    "gender": "F",
     "hobbies": ["inventing", "programming"],
     "role": {
       "id": "role-1",
       "name": "Sentinel",
       "description": "Sentinels are defensive specialists who secure areas and support teammates.",
-      "iconUrl": "https://example.com/icons/sentinel.png",
+      "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/sentinel-icon.jpg",
       "isPlayable": true
     }
   },
@@ -132,14 +132,14 @@
     "age": 35,
     "active": true,
     "birthDate": "1989-08-21",
-    "imageUrl": "https://example.com/agents/breach.png",
-    "tier": "B",
+    "imageUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/breach-icon.jpg",
+    "gender": "M",
     "hobbies": ["fitness", "tactics"],
     "role": {
       "id": "role-2",
       "name": "Initiator",
       "description": "Initiators open fights by locating and disrupting enemies.",
-      "iconUrl": "https://example.com/icons/initiator.png",
+      "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/initiator-icon.jpg",
       "isPlayable": true
     }
   },
@@ -150,32 +150,32 @@
     "age": 25,
     "active": true,
     "birthDate": "1999-11-11",
-    "imageUrl": "https://example.com/agents/reyna.png",
-    "tier": "S",
+    "imageUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/reyna-icon.jpg",
+    "gender": "F",
     "hobbies": ["training", "dueling"],
     "role": {
       "id": "role-3",
       "name": "Duelist",
       "description": "Duelists are aggressive fraggers who initiate fights.",
-      "iconUrl": "https://example.com/icons/duelist.png",
+      "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/duelist-icon.jpg",
       "isPlayable": true
     }
   },
   {
     "id": "agent-10",
     "name": "Cypher",
-    "description": "Cypher gathers information and constantly monitors enemies.",
+    "description": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/cypher-icon.jpg",
     "age": 38,
     "active": true,
     "birthDate": "1986-02-14",
     "imageUrl": "https://example.com/agents/cypher.png",
-    "tier": "A",
+    "gender": "M",
     "hobbies": ["espionage", "analysis"],
     "role": {
       "id": "role-1",
       "name": "Sentinel",
       "description": "Sentinels are defensive specialists who secure areas and support teammates.",
-      "iconUrl": "https://example.com/icons/sentinel.png",
+      "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/sentinel-icon.jpg",
       "isPlayable": true
     }
   }

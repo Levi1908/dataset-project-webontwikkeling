@@ -3,28 +3,28 @@
     "id": "role-1",
     "name": "Sentinel",
     "description": "Sentinels are defensive specialists who secure areas and support teammates.",
-    "iconUrl": "https://example.com/icons/sentinel.png",
+    "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/sentinel-icon.jpg",
     "isPlayable": true
   },
   {
     "id": "role-2",
     "name": "Initiator",
     "description": "Initiators open fights by locating and disrupting enemies.",
-    "iconUrl": "https://example.com/icons/initiator.png",
+    "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/initiator-icon.jpg",
     "isPlayable": true
   },
   {
     "id": "role-3",
     "name": "Duelist",
     "description": "Duelists are aggressive fraggers who initiate fights.",
-    "iconUrl": "https://example.com/icons/duelist.png",
+    "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/duelist-icon.jpg",
     "isPlayable": true
   },
   {
     "id": "role-4",
     "name": "Controller",
     "description": "Controllers control the battlefield by managing vision and zones.",
-    "iconUrl": "https://example.com/icons/controller.png",
+    "iconUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/roles/controller-icon.jpg",
     "isPlayable": true
   }
 ]
