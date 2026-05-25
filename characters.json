@@ -164,11 +164,11 @@
   {
     "id": "agent-10",
     "name": "Cypher",
-    "description": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/cypher-icon.jpg",
+    "description": "Cypher is a one-man surveillance network who keeps tabs on the enemy's every move.",
     "age": 38,
     "active": true,
     "birthDate": "1986-02-14",
-    "imageUrl": "https://example.com/agents/cypher.png",
+    "imageUrl": "https://raw.githubusercontent.com/Levi1908/dataset-project-webontwikkeling/refs/heads/main/images/cypher-icon.jpg",
     "gender": "M",
     "hobbies": ["espionage", "analysis"],
     "role": {
